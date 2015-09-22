@@ -29,7 +29,7 @@ public class MasterAllocator {
 			no_of_processes = Math.floorDiv(fileList.size(), m) + 1;
 
 		ProcessBuilder pb = new ProcessBuilder(
-				"java", "-classpath", "C:\\Users\\virprabh\\workspace\\ResizeImages\\bin", "com.adobe.slave.ResizeMain",
+				"java", "-classpath", "C:\\Users\\virprabh\\Documents\\viraj\\code\\image-resize\\ImageResizer\\bin\\", "com.adobe.slave.ResizeMain",
 				Integer.toString(port), IDir, ODir, Integer.toString(n));
 
 		
