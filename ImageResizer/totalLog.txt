@@ -1,0 +1,33 @@
+#numImages: 787 : 190027 m: 100 n: 20
+
+#numImages: 787 : 114467 m: 100 n: 20
+
+#numImages: 787 : 62065 m: 200 n: 20
+
+#numImages: 787 : 44965 m: 300 n: 20
+
+#numImages: 787 : 30309 m: 400 n: 20
+
+#numImages: 787 : 29545 m: 500 n: 20
+
+#numImages: 787 : 29500 m: 600 n: 20
+
+#numImages: 787 : 28390 m: 800 n: 20
+
+#numImages: 787 : 102202 m: 100 n: 50
+
+#numImages: 787 : 46644 m: 200 n: 100
+
+#numImages: 787 : 31832 m: 400 n: 20
+
+More images:
+
+#numImages: 2906 : 600000 m: 400 n: 20
+
+#numImages: 2906 : 108639 m: 1600 n: 20
+
+#numImages: 2906 : 344042 ms m: 800 n: 20
+
+#numImages: 2906 : 86413 ms m: 1600 n: 20
+
+#numImages: 2906 : 87932 ms m: 3200 n: 20
